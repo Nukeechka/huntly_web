@@ -1,0 +1,34 @@
+.companies-section {
+  background-color: #e0e7fb;
+  padding: 40px 0;
+}
+
+.title-companies {
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 50px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.companies-slider .company-logo {
+  max-width: 120px;
+  margin: 0 auto;
+}
+
+.companies-slider .slick-slide {
+  text-align: center;
+}
+
+.companies-slider .slick-prev,
+.companies-slider .slick-next {
+  color: #0046ff;
+  z-index: 1;
+}
+
+.companies-slider .slick-prev:hover,
+.companies-slider .slick-next:hover {
+  color: #0039cc;
+}

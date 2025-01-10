@@ -1,0 +1,14 @@
+.badge-trusted {
+  top: 10px;
+  right: 10px;
+  font-size: 0.9rem;
+  transform: translate(0, 0);
+}
+
+@media (max-width: 576px) {
+  .badge-trusted {
+    top: -10px;
+    right: 0;
+    font-size: 0.8rem;
+  }
+}
